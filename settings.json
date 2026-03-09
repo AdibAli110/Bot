@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "aapka appna bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
+    "ip": "nonigasmp.falixsrv.me",
     "port": 56559,
     "version": "1.21.1"
   },
